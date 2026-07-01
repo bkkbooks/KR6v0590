@@ -1,0 +1,6180 @@
+canonical_identifier: bkk:krp/KR6v0590/v1
+canonical_location: https://kanripo.org/bkk/KR6v0590/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太虛大師年譜
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y13/Y13n0013.xml
+    old_id: Y13n0013
+  edition:
+    short: bkk
+editions:
+- short: 印順
+  label: 印順
+  source_xml_id: wit.orig
+- short: 'Y'
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0590_000.yaml, hash: 'sha256:39aac5379e7e0be22c2825b7d078ef06ba27b7389cc40670d88683d3007b0b7f'}
+  - {seq: 1, filename: KR6v0590_001.yaml, hash: 'sha256:e2c07c61dc2273477e14c283af0e14a69c7e296b4866e1fb661f7c661d8d2193'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0590_000.markers.yaml, hash: 'sha256:0be565d26bdff9825e231a45e92c325523cfad0df62c5d518d084bf46e82c612'}
+  - {seq: 1, role: markers, filename: assets/KR6v0590_001.markers.yaml, hash: 'sha256:88a614dc3aefffd00fc45417b3c2e90a95367b8e0232a40077d0813363bb29e4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0590_Y_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0590_Y_000-mulu-2
+    span:
+    - front
+    - 406
+    - 406
+  label: 編者附言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 151308
+  label: 太虛大師年譜
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 名號、籍貫、年齡、眷屬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 一　名號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-3
+    span:
+    - body
+    - 2112
+    - 2112
+  label: 二　籍貫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-4
+    span:
+    - body
+    - 2363
+    - 2363
+  label: 三　年齡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-5
+    span:
+    - body
+    - 2935
+    - 2935
+  label: 四　眷屬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-6
+    span:
+    - body
+    - 4024
+    - 4024
+  label: 年譜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-7
+    span:
+    - body
+    - 4026
+    - 4026
+  label: 清光緒十五年，己丑（一八八九——一八九〇），大師生。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-8
+    span:
+    - body
+    - 4044
+    - 4044
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-9
+    span:
+    - body
+    - 4146
+    - 4146
+  label: 光緒十六年，庚寅（一八九〇——一八九一），大師二歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-10
+    span:
+    - body
+    - 4164
+    - 4164
+  label: 是年秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-11
+    span:
+    - body
+    - 4179
+    - 4179
+  label: 光緒十七年，辛卯（一八九一——一八九二），大師三歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-12
+    span:
+    - body
+    - 4198
+    - 4198
+  label: 光緒十八年，壬辰（一八九二——一八九三），大師四歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-13
+    span:
+    - body
+    - 4217
+    - 4217
+  label: 光緒十九年，癸巳（一八九三——一八九四），大師五歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-14
+    span:
+    - body
+    - 4236
+    - 4236
+  label: 是年夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-15
+    span:
+    - body
+    - 4333
+    - 4333
+  label: 光緒二十年，甲午（一八九四——一八九五），大師六歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-16
+    span:
+    - body
+    - 4352
+    - 4352
+  label: 光緒二十一年，乙未（一八九五——一八九六），大師七歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-17
+    span:
+    - body
+    - 4372
+    - 4372
+  label: 二、三年來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-18
+    span:
+    - body
+    - 4406
+    - 4406
+  label: 光緒二十二年，丙申（一八九六——一八九七），大師八歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-19
+    span:
+    - body
+    - 4426
+    - 4426
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-20
+    span:
+    - body
+    - 4477
+    - 4477
+  label: 光緒二十三年，丁酉（一八九七——一八九八），大師九歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-21
+    span:
+    - body
+    - 4497
+    - 4497
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-22
+    span:
+    - body
+    - 4510
+    - 4510
+  label: 秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-23
+    span:
+    - body
+    - 4562
+    - 4562
+  label: 光緒二十四年，戊戌（一八九八——一八九九），大師十歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-24
+    span:
+    - body
+    - 4582
+    - 4582
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-25
+    span:
+    - body
+    - 4641
+    - 4641
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-26
+    span:
+    - body
+    - 4647
+    - 4647
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-27
+    span:
+    - body
+    - 4669
+    - 4669
+  label: 光緒二十五年，己亥（一八九九——一九〇〇），大師十一歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-28
+    span:
+    - body
+    - 4688
+    - 4688
+  label: 光緒二十六年，庚子（一九〇〇——一九〇一），大師十二歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-29
+    span:
+    - body
+    - 4706
+    - 4706
+  label: 大師九歲以來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-30
+    span:
+    - body
+    - 4726
+    - 4726
+  label: 夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-31
+    span:
+    - body
+    - 4735
+    - 4735
+  label: 光緒二十七年，辛丑（一九〇一——一九〇二），大師十三歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-32
+    span:
+    - body
+    - 4754
+    - 4754
+  label: 春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-33
+    span:
+    - body
+    - 4774
+    - 4774
+  label: 夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-34
+    span:
+    - body
+    - 4816
+    - 4816
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-35
+    span:
+    - body
+    - 4845
+    - 4845
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-36
+    span:
+    - body
+    - 4863
+    - 4863
+  label: 光緒二十八年，壬寅（一九〇二——一九〇三），大師十四歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-37
+    span:
+    - body
+    - 4882
+    - 4882
+  label: 年初
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-38
+    span:
+    - body
+    - 4918
+    - 4918
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-39
+    span:
+    - body
+    - 4967
+    - 4967
+  label: 光緒二十九年，癸卯（一九〇三——一九〇四），大師十五歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-40
+    span:
+    - body
+    - 4986
+    - 4986
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-41
+    span:
+    - body
+    - 5035
+    - 5035
+  label: 光緒三十年，甲辰（一九〇四——一九〇五），大師十六歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-42
+    span:
+    - body
+    - 5053
+    - 5053
+  label: 四月初
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-43
+    span:
+    - body
+    - 5186
+    - 5186
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-44
+    span:
+    - body
+    - 5272
+    - 5272
+  label: 九、十月間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-45
+    span:
+    - body
+    - 5326
+    - 5326
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-46
+    span:
+    - body
+    - 5568
+    - 5568
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-47
+    span:
+    - body
+    - 5679
+    - 5679
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-48
+    span:
+    - body
+    - 5740
+    - 5740
+  label: 光緒三十一年，乙巳（一九〇五——一九〇六），大師十七歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-49
+    span:
+    - body
+    - 5759
+    - 5759
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-50
+    span:
+    - body
+    - 5797
+    - 5797
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-51
+    span:
+    - body
+    - 5809
+    - 5809
+  label: 光緒三十二年，丙午（一九〇六——一九〇七），大師十八歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-52
+    span:
+    - body
+    - 5828
+    - 5828
+  label: 春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-53
+    span:
+    - body
+    - 5931
+    - 5931
+  label: 夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-54
+    span:
+    - body
+    - 6121
+    - 6121
+  label: 七月望
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-55
+    span:
+    - body
+    - 6846
+    - 6846
+  label: 秋初
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-56
+    span:
+    - body
+    - 6866
+    - 6866
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-57
+    span:
+    - body
+    - 6901
+    - 6901
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-58
+    span:
+    - body
+    - 6938
+    - 6938
+  label: 光緒三十三年，丁未（一九〇七——一九〇八），大師十九歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-59
+    span:
+    - body
+    - 6957
+    - 6957
+  label: 是年夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-60
+    span:
+    - body
+    - 7010
+    - 7010
+  label: 秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-61
+    span:
+    - body
+    - 7213
+    - 7213
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-62
+    span:
+    - body
+    - 7404
+    - 7404
+  label: 是年秋冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-63
+    span:
+    - body
+    - 7419
+    - 7419
+  label: 光緒三十四年，戊申（一九〇八——一九〇九），大師二十歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-64
+    span:
+    - body
+    - 7438
+    - 7438
+  label: 初春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-65
+    span:
+    - body
+    - 7769
+    - 7769
+  label: 夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-66
+    span:
+    - body
+    - 8184
+    - 8184
+  label: 秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-67
+    span:
+    - body
+    - 8513
+    - 8513
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-68
+    span:
+    - body
+    - 8596
+    - 8596
+  label: 宣統元年，己酉（一九〇九——一九一〇），大師二十一歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-69
+    span:
+    - body
+    - 8614
+    - 8614
+  label: 春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-70
+    span:
+    - body
+    - 8893
+    - 8893
+  label: 秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-71
+    span:
+    - body
+    - 8918
+    - 8918
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-72
+    span:
+    - body
+    - 8958
+    - 8958
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-73
+    span:
+    - body
+    - 9079
+    - 9079
+  label: 宣統二年，庚戌（一九一〇——一九一一），大師二十二歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-74
+    span:
+    - body
+    - 9098
+    - 9098
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-75
+    span:
+    - body
+    - 9157
+    - 9157
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-76
+    span:
+    - body
+    - 9188
+    - 9188
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-77
+    span:
+    - body
+    - 9304
+    - 9304
+  label: 夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-78
+    span:
+    - body
+    - 9959
+    - 9959
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-79
+    span:
+    - body
+    - 10131
+    - 10131
+  label: 是秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-80
+    span:
+    - body
+    - 10177
+    - 10177
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-81
+    span:
+    - body
+    - 10221
+    - 10221
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-82
+    span:
+    - body
+    - 10306
+    - 10306
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-83
+    span:
+    - body
+    - 10331
+    - 10331
+  label: 宣統三年，辛亥（一九一一），大師二十三歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-84
+    span:
+    - body
+    - 10347
+    - 10347
+  label: 春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-85
+    span:
+    - body
+    - 10773
+    - 10773
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-86
+    span:
+    - body
+    - 10924
+    - 10924
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-87
+    span:
+    - body
+    - 11314
+    - 11314
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-88
+    span:
+    - body
+    - 11409
+    - 11409
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-89
+    span:
+    - body
+    - 11610
+    - 11610
+  label: 秋初
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-90
+    span:
+    - body
+    - 11998
+    - 11998
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-91
+    span:
+    - body
+    - 12015
+    - 12015
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-92
+    span:
+    - body
+    - 12177
+    - 12177
+  label: 中華民國元年，一九一二（辛亥——壬子），大師二十四歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-93
+    span:
+    - body
+    - 12197
+    - 12197
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-94
+    span:
+    - body
+    - 13201
+    - 13201
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-95
+    span:
+    - body
+    - 13217
+    - 13217
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-96
+    span:
+    - body
+    - 13682
+    - 13682
+  label: 春暮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-97
+    span:
+    - body
+    - 13710
+    - 13710
+  label: 夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-98
+    span:
+    - body
+    - 13829
+    - 13829
+  label: 秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-99
+    span:
+    - body
+    - 13927
+    - 13927
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-100
+    span:
+    - body
+    - 13945
+    - 13945
+  label: 民國二年，一九一三（壬子——癸丑），大師二十五歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-101
+    span:
+    - body
+    - 13963
+    - 13963
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-102
+    span:
+    - body
+    - 14303
+    - 14303
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-103
+    span:
+    - body
+    - 14625
+    - 14625
+  label: 舊曆新年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-104
+    span:
+    - body
+    - 15310
+    - 15310
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-105
+    span:
+    - body
+    - 16077
+    - 16077
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-106
+    span:
+    - body
+    - 16118
+    - 16118
+  label: 是年佛誕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-107
+    span:
+    - body
+    - 16950
+    - 16950
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-108
+    span:
+    - body
+    - 16997
+    - 16997
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-109
+    span:
+    - body
+    - 17032
+    - 17032
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-110
+    span:
+    - body
+    - 17117
+    - 17117
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-111
+    span:
+    - body
+    - 17468
+    - 17468
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-112
+    span:
+    - body
+    - 17526
+    - 17526
+  label: 民初或是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-113
+    span:
+    - body
+    - 18044
+    - 18044
+  label: 民國三年，一九一四（癸丑——甲寅），大師二十六歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-114
+    span:
+    - body
+    - 18062
+    - 18062
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-115
+    span:
+    - body
+    - 18089
+    - 18089
+  label: 自春徂夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-116
+    span:
+    - body
+    - 18119
+    - 18119
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-117
+    span:
+    - body
+    - 18504
+    - 18504
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-118
+    span:
+    - body
+    - 18821
+    - 18821
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-119
+    span:
+    - body
+    - 19062
+    - 19062
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-120
+    span:
+    - body
+    - 19096
+    - 19096
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-121
+    span:
+    - body
+    - 19196
+    - 19196
+  label: 民國四年，一九一五（甲寅——乙卯），大師二十七歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-122
+    span:
+    - body
+    - 19214
+    - 19214
+  label: 春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-123
+    span:
+    - body
+    - 19719
+    - 19719
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-124
+    span:
+    - body
+    - 19744
+    - 19744
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-125
+    span:
+    - body
+    - 19764
+    - 19764
+  label: 夏初
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-126
+    span:
+    - body
+    - 19793
+    - 19793
+  label: 是年夏起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-127
+    span:
+    - body
+    - 20057
+    - 20057
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-128
+    span:
+    - body
+    - 20150
+    - 20150
+  label: 秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-129
+    span:
+    - body
+    - 20185
+    - 20185
+  label: 是秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-130
+    span:
+    - body
+    - 20231
+    - 20231
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-131
+    span:
+    - body
+    - 20337
+    - 20337
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-132
+    span:
+    - body
+    - 20349
+    - 20349
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-133
+    span:
+    - body
+    - 21596
+    - 21596
+  label: 民國五年，一九一六（乙卯——丙辰），大師二十八歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-134
+    span:
+    - body
+    - 21614
+    - 21614
+  label: 春初
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-135
+    span:
+    - body
+    - 21674
+    - 21674
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-136
+    span:
+    - body
+    - 22330
+    - 22330
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-137
+    span:
+    - body
+    - 22543
+    - 22543
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-138
+    span:
+    - body
+    - 22604
+    - 22604
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-139
+    span:
+    - body
+    - 22823
+    - 22823
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-140
+    span:
+    - body
+    - 22840
+    - 22840
+  label: 冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-141
+    span:
+    - body
+    - 22931
+    - 22931
+  label: 民國六年，一九一七（丙辰——丁巳），大師二十九歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-142
+    span:
+    - body
+    - 22949
+    - 22949
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-143
+    span:
+    - body
+    - 23089
+    - 23089
+  label: 夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-144
+    span:
+    - body
+    - 23216
+    - 23216
+  label: 秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-145
+    span:
+    - body
+    - 23500
+    - 23500
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-146
+    span:
+    - body
+    - 23928
+    - 23928
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-147
+    span:
+    - body
+    - 24501
+    - 24501
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-148
+    span:
+    - body
+    - 24895
+    - 24895
+  label: 民國七年，一九一八（丁巳——戊午），大師三十歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-149
+    span:
+    - body
+    - 24912
+    - 24912
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-150
+    span:
+    - body
+    - 24962
+    - 24962
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-151
+    span:
+    - body
+    - 25030
+    - 25030
+  label: 春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-152
+    span:
+    - body
+    - 25101
+    - 25101
+  label: 夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-153
+    span:
+    - body
+    - 25159
+    - 25159
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-154
+    span:
+    - body
+    - 25259
+    - 25259
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-155
+    span:
+    - body
+    - 25570
+    - 25570
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-156
+    span:
+    - body
+    - 25688
+    - 25688
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-157
+    span:
+    - body
+    - 25793
+    - 25793
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-158
+    span:
+    - body
+    - 26111
+    - 26111
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-159
+    span:
+    - body
+    - 26119
+    - 26119
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-160
+    span:
+    - body
+    - 26850
+    - 26850
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-161
+    span:
+    - body
+    - 26928
+    - 26928
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-162
+    span:
+    - body
+    - 26983
+    - 26983
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-163
+    span:
+    - body
+    - 27049
+    - 27049
+  label: 民國八年，一九一九（戊午——己未），大師三十一歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-164
+    span:
+    - body
+    - 27067
+    - 27067
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-165
+    span:
+    - body
+    - 27165
+    - 27165
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-166
+    span:
+    - body
+    - 27246
+    - 27246
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-167
+    span:
+    - body
+    - 27390
+    - 27390
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-168
+    span:
+    - body
+    - 27654
+    - 27654
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-169
+    span:
+    - body
+    - 27848
+    - 27848
+  label: 是年夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-170
+    span:
+    - body
+    - 28001
+    - 28001
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-171
+    span:
+    - body
+    - 28195
+    - 28195
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-172
+    span:
+    - body
+    - 28284
+    - 28284
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-173
+    span:
+    - body
+    - 28766
+    - 28766
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-174
+    span:
+    - body
+    - 28857
+    - 28857
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-175
+    span:
+    - body
+    - 28902
+    - 28902
+  label: 民國九年，一九二〇（己未——庚申），大師三十二歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-176
+    span:
+    - body
+    - 28919
+    - 28919
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-177
+    span:
+    - body
+    - 29051
+    - 29051
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-178
+    span:
+    - body
+    - 29691
+    - 29691
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-179
+    span:
+    - body
+    - 30101
+    - 30101
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-180
+    span:
+    - body
+    - 30512
+    - 30512
+  label: 是年春夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-181
+    span:
+    - body
+    - 30551
+    - 30551
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-182
+    span:
+    - body
+    - 30736
+    - 30736
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-183
+    span:
+    - body
+    - 30953
+    - 30953
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-184
+    span:
+    - body
+    - 31131
+    - 31131
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-185
+    span:
+    - body
+    - 31538
+    - 31538
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-186
+    span:
+    - body
+    - 32050
+    - 32050
+  label: 民國十年，一九二一（庚申——辛酉），大師三十三歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-187
+    span:
+    - body
+    - 32068
+    - 32068
+  label: 新春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-188
+    span:
+    - body
+    - 32556
+    - 32556
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-189
+    span:
+    - body
+    - 32831
+    - 32831
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-190
+    span:
+    - body
+    - 33257
+    - 33257
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-191
+    span:
+    - body
+    - 33426
+    - 33426
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-192
+    span:
+    - body
+    - 33507
+    - 33507
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-193
+    span:
+    - body
+    - 33834
+    - 33834
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-194
+    span:
+    - body
+    - 33966
+    - 33966
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-195
+    span:
+    - body
+    - 35801
+    - 35801
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-196
+    span:
+    - body
+    - 35920
+    - 35920
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-197
+    span:
+    - body
+    - 35937
+    - 35937
+  label: 民國十一年，一九二二（辛酉——壬戌），大師三十四歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-198
+    span:
+    - body
+    - 35956
+    - 35956
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-199
+    span:
+    - body
+    - 36052
+    - 36052
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-200
+    span:
+    - body
+    - 36108
+    - 36108
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-201
+    span:
+    - body
+    - 36321
+    - 36321
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-202
+    span:
+    - body
+    - 37084
+    - 37084
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-203
+    span:
+    - body
+    - 37671
+    - 37671
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-204
+    span:
+    - body
+    - 37778
+    - 37778
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-205
+    span:
+    - body
+    - 37832
+    - 37832
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-206
+    span:
+    - body
+    - 38376
+    - 38376
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-207
+    span:
+    - body
+    - 38602
+    - 38602
+  label: 是學期
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-208
+    span:
+    - body
+    - 38766
+    - 38766
+  label: 是秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-209
+    span:
+    - body
+    - 38800
+    - 38800
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-210
+    span:
+    - body
+    - 38888
+    - 38888
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-211
+    span:
+    - body
+    - 38923
+    - 38923
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-212
+    span:
+    - body
+    - 39376
+    - 39376
+  label: 是冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-213
+    span:
+    - body
+    - 39402
+    - 39402
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-214
+    span:
+    - body
+    - 40975
+    - 40975
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-215
+    span:
+    - body
+    - 41024
+    - 41024
+  label: 民國十二年，一九二三（壬戌——癸亥），大師三十五歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-216
+    span:
+    - body
+    - 41043
+    - 41043
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-217
+    span:
+    - body
+    - 41455
+    - 41455
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-218
+    span:
+    - body
+    - 41643
+    - 41643
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-219
+    span:
+    - body
+    - 41816
+    - 41816
+  label: 舊曆新年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-220
+    span:
+    - body
+    - 42697
+    - 42697
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-221
+    span:
+    - body
+    - 42835
+    - 42835
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-222
+    span:
+    - body
+    - 42969
+    - 42969
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-223
+    span:
+    - body
+    - 43928
+    - 43928
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-224
+    span:
+    - body
+    - 44953
+    - 44953
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-225
+    span:
+    - body
+    - 45281
+    - 45281
+  label: 是秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-226
+    span:
+    - body
+    - 45297
+    - 45297
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-227
+    span:
+    - body
+    - 45356
+    - 45356
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-228
+    span:
+    - body
+    - 45425
+    - 45425
+  label: 是年秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-229
+    span:
+    - body
+    - 45438
+    - 45438
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-230
+    span:
+    - body
+    - 45658
+    - 45658
+  label: 是冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-231
+    span:
+    - body
+    - 45759
+    - 45759
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-232
+    span:
+    - body
+    - 46024
+    - 46024
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-233
+    span:
+    - body
+    - 46047
+    - 46047
+  label: 民國十三年，一九二四（癸亥——甲子），大師三十六歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-234
+    span:
+    - body
+    - 46066
+    - 46066
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-235
+    span:
+    - body
+    - 46414
+    - 46414
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-236
+    span:
+    - body
+    - 47356
+    - 47356
+  label: 春季
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-237
+    span:
+    - body
+    - 47825
+    - 47825
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-238
+    span:
+    - body
+    - 47868
+    - 47868
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-239
+    span:
+    - body
+    - 48017
+    - 48017
+  label: 是年春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-240
+    span:
+    - body
+    - 48239
+    - 48239
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-241
+    span:
+    - body
+    - 48411
+    - 48411
+  label: 暑假期前
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-242
+    span:
+    - body
+    - 48485
+    - 48485
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-243
+    span:
+    - body
+    - 48705
+    - 48705
+  label: 是年春夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-244
+    span:
+    - body
+    - 49240
+    - 49240
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-245
+    span:
+    - body
+    - 49819
+    - 49819
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-246
+    span:
+    - body
+    - 50500
+    - 50500
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-247
+    span:
+    - body
+    - 51020
+    - 51020
+  label: 是年秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-248
+    span:
+    - body
+    - 51036
+    - 51036
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-249
+    span:
+    - body
+    - 51110
+    - 51110
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-250
+    span:
+    - body
+    - 51376
+    - 51376
+  label: 秋杪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-251
+    span:
+    - body
+    - 53436
+    - 53436
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-252
+    span:
+    - body
+    - 53638
+    - 53638
+  label: 民國十四年，一九二五（甲子——乙丑），大師三十七歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-253
+    span:
+    - body
+    - 53657
+    - 53657
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-254
+    span:
+    - body
+    - 54044
+    - 54044
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-255
+    span:
+    - body
+    - 54112
+    - 54112
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-256
+    span:
+    - body
+    - 54186
+    - 54186
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-257
+    span:
+    - body
+    - 54560
+    - 54560
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-258
+    span:
+    - body
+    - 54823
+    - 54823
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-259
+    span:
+    - body
+    - 54897
+    - 54897
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-260
+    span:
+    - body
+    - 55468
+    - 55468
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-261
+    span:
+    - body
+    - 55749
+    - 55749
+  label: 是年夏秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-262
+    span:
+    - body
+    - 55867
+    - 55867
+  label: 是秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-263
+    span:
+    - body
+    - 56445
+    - 56445
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-264
+    span:
+    - body
+    - 57277
+    - 57277
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-265
+    span:
+    - body
+    - 59702
+    - 59702
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-266
+    span:
+    - body
+    - 59730
+    - 59730
+  label: 民國十五年，一九二六（乙丑——丙寅），大師三十八歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-267
+    span:
+    - body
+    - 59749
+    - 59749
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-268
+    span:
+    - body
+    - 59840
+    - 59840
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-269
+    span:
+    - body
+    - 60165
+    - 60165
+  label: 是年春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-270
+    span:
+    - body
+    - 60258
+    - 60258
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-271
+    span:
+    - body
+    - 60378
+    - 60378
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-272
+    span:
+    - body
+    - 60415
+    - 60415
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-273
+    span:
+    - body
+    - 60688
+    - 60688
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-274
+    span:
+    - body
+    - 60885
+    - 60885
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-275
+    span:
+    - body
+    - 61106
+    - 61106
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-276
+    span:
+    - body
+    - 61157
+    - 61157
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-277
+    span:
+    - body
+    - 61315
+    - 61315
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-278
+    span:
+    - body
+    - 61903
+    - 61903
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-279
+    span:
+    - body
+    - 62045
+    - 62045
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-280
+    span:
+    - body
+    - 62963
+    - 62963
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-281
+    span:
+    - body
+    - 63664
+    - 63664
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-282
+    span:
+    - body
+    - 63916
+    - 63916
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-283
+    span:
+    - body
+    - 64014
+    - 64014
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-284
+    span:
+    - body
+    - 64156
+    - 64156
+  label: 民國十六年，一九二七（丙寅——丁卯），大師三十九歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-285
+    span:
+    - body
+    - 64175
+    - 64175
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-286
+    span:
+    - body
+    - 64643
+    - 64643
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-287
+    span:
+    - body
+    - 64856
+    - 64856
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-288
+    span:
+    - body
+    - 65061
+    - 65061
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-289
+    span:
+    - body
+    - 65407
+    - 65407
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-290
+    span:
+    - body
+    - 65858
+    - 65858
+  label: 五月初
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-291
+    span:
+    - body
+    - 65882
+    - 65882
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-292
+    span:
+    - body
+    - 66042
+    - 66042
+  label: 是年夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-293
+    span:
+    - body
+    - 66185
+    - 66185
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-294
+    span:
+    - body
+    - 66520
+    - 66520
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-295
+    span:
+    - body
+    - 66531
+    - 66531
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-296
+    span:
+    - body
+    - 66543
+    - 66543
+  label: 夏秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-297
+    span:
+    - body
+    - 66617
+    - 66617
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-298
+    span:
+    - body
+    - 67047
+    - 67047
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-299
+    span:
+    - body
+    - 67309
+    - 67309
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-300
+    span:
+    - body
+    - 67870
+    - 67870
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-301
+    span:
+    - body
+    - 67893
+    - 67893
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-302
+    span:
+    - body
+    - 68239
+    - 68239
+  label: 是冬明春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-303
+    span:
+    - body
+    - 69201
+    - 69201
+  label: 民國十七年，一九二八（丁卯——戊辰），大師四十歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-304
+    span:
+    - body
+    - 69219
+    - 69219
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-305
+    span:
+    - body
+    - 69735
+    - 69735
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-306
+    span:
+    - body
+    - 69842
+    - 69842
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-307
+    span:
+    - body
+    - 70114
+    - 70114
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-308
+    span:
+    - body
+    - 70269
+    - 70269
+  label: 暮春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-309
+    span:
+    - body
+    - 70539
+    - 70539
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-310
+    span:
+    - body
+    - 70729
+    - 70729
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-311
+    span:
+    - body
+    - 71173
+    - 71173
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-312
+    span:
+    - body
+    - 71601
+    - 71601
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-313
+    span:
+    - body
+    - 71829
+    - 71829
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-314
+    span:
+    - body
+    - 72121
+    - 72121
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-315
+    span:
+    - body
+    - 72661
+    - 72661
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-316
+    span:
+    - body
+    - 73795
+    - 73795
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-317
+    span:
+    - body
+    - 74100
+    - 74100
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-318
+    span:
+    - body
+    - 75430
+    - 75430
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-319
+    span:
+    - body
+    - 76896
+    - 76896
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-320
+    span:
+    - body
+    - 77427
+    - 77427
+  label: 民國十八年，一九二九（戊辰——己巳），大師四十一歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-321
+    span:
+    - body
+    - 77446
+    - 77446
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-322
+    span:
+    - body
+    - 78435
+    - 78435
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-323
+    span:
+    - body
+    - 79155
+    - 79155
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-324
+    span:
+    - body
+    - 80681
+    - 80681
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-325
+    span:
+    - body
+    - 81516
+    - 81516
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-326
+    span:
+    - body
+    - 81834
+    - 81834
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-327
+    span:
+    - body
+    - 82229
+    - 82229
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-328
+    span:
+    - body
+    - 82252
+    - 82252
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-329
+    span:
+    - body
+    - 82310
+    - 82310
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-330
+    span:
+    - body
+    - 82847
+    - 82847
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-331
+    span:
+    - body
+    - 82868
+    - 82868
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-332
+    span:
+    - body
+    - 83211
+    - 83211
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-333
+    span:
+    - body
+    - 83570
+    - 83570
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-334
+    span:
+    - body
+    - 83584
+    - 83584
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-335
+    span:
+    - body
+    - 83907
+    - 83907
+  label: 民國十九年，一九三〇（己巳——庚午），大師四十二歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-336
+    span:
+    - body
+    - 83925
+    - 83925
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-337
+    span:
+    - body
+    - 84247
+    - 84247
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-338
+    span:
+    - body
+    - 84698
+    - 84698
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-339
+    span:
+    - body
+    - 84877
+    - 84877
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-340
+    span:
+    - body
+    - 85442
+    - 85442
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-341
+    span:
+    - body
+    - 85701
+    - 85701
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-342
+    span:
+    - body
+    - 86313
+    - 86313
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-343
+    span:
+    - body
+    - 86336
+    - 86336
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-344
+    span:
+    - body
+    - 86360
+    - 86360
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-345
+    span:
+    - body
+    - 86676
+    - 86676
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-346
+    span:
+    - body
+    - 87116
+    - 87116
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-347
+    span:
+    - body
+    - 88240
+    - 88240
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-348
+    span:
+    - body
+    - 88316
+    - 88316
+  label: 民國二十年，一九三一（庚午——辛未），大師四十三歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-349
+    span:
+    - body
+    - 88335
+    - 88335
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-350
+    span:
+    - body
+    - 88532
+    - 88532
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-351
+    span:
+    - body
+    - 88628
+    - 88628
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-352
+    span:
+    - body
+    - 89042
+    - 89042
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-353
+    span:
+    - body
+    - 89085
+    - 89085
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-354
+    span:
+    - body
+    - 89149
+    - 89149
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-355
+    span:
+    - body
+    - 89967
+    - 89967
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-356
+    span:
+    - body
+    - 91427
+    - 91427
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-357
+    span:
+    - body
+    - 91954
+    - 91954
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-358
+    span:
+    - body
+    - 92481
+    - 92481
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-359
+    span:
+    - body
+    - 93628
+    - 93628
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-360
+    span:
+    - body
+    - 93744
+    - 93744
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-361
+    span:
+    - body
+    - 94437
+    - 94437
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-362
+    span:
+    - body
+    - 94597
+    - 94597
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-363
+    span:
+    - body
+    - 94652
+    - 94652
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-364
+    span:
+    - body
+    - 94758
+    - 94758
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-365
+    span:
+    - body
+    - 94776
+    - 94776
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-366
+    span:
+    - body
+    - 94838
+    - 94838
+  label: 民國二十一年，一九三二（辛未——壬申），大師四十四歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-367
+    span:
+    - body
+    - 94858
+    - 94858
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-368
+    span:
+    - body
+    - 95242
+    - 95242
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-369
+    span:
+    - body
+    - 95497
+    - 95497
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-370
+    span:
+    - body
+    - 95546
+    - 95546
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-371
+    span:
+    - body
+    - 95557
+    - 95557
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-372
+    span:
+    - body
+    - 95791
+    - 95791
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-373
+    span:
+    - body
+    - 95999
+    - 95999
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-374
+    span:
+    - body
+    - 96035
+    - 96035
+  label: 是年夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-375
+    span:
+    - body
+    - 96081
+    - 96081
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-376
+    span:
+    - body
+    - 96278
+    - 96278
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-377
+    span:
+    - body
+    - 96699
+    - 96699
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-378
+    span:
+    - body
+    - 96722
+    - 96722
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-379
+    span:
+    - body
+    - 96906
+    - 96906
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-380
+    span:
+    - body
+    - 97367
+    - 97367
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-381
+    span:
+    - body
+    - 98006
+    - 98006
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-382
+    span:
+    - body
+    - 98125
+    - 98125
+  label: 民國二十二年，一九三三（壬申——癸酉），大師四十五歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-383
+    span:
+    - body
+    - 98145
+    - 98145
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-384
+    span:
+    - body
+    - 98640
+    - 98640
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-385
+    span:
+    - body
+    - 98724
+    - 98724
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-386
+    span:
+    - body
+    - 98975
+    - 98975
+  label: 是年春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-387
+    span:
+    - body
+    - 99001
+    - 99001
+  label: 夏初
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-388
+    span:
+    - body
+    - 99038
+    - 99038
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-389
+    span:
+    - body
+    - 99067
+    - 99067
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-390
+    span:
+    - body
+    - 99538
+    - 99538
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-391
+    span:
+    - body
+    - 99735
+    - 99735
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-392
+    span:
+    - body
+    - 99756
+    - 99756
+  label: 是年春夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-393
+    span:
+    - body
+    - 100004
+    - 100004
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-394
+    span:
+    - body
+    - 100170
+    - 100170
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-395
+    span:
+    - body
+    - 100328
+    - 100328
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-396
+    span:
+    - body
+    - 100498
+    - 100498
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-397
+    span:
+    - body
+    - 100575
+    - 100575
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-398
+    span:
+    - body
+    - 100597
+    - 100597
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-399
+    span:
+    - body
+    - 100775
+    - 100775
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-400
+    span:
+    - body
+    - 100867
+    - 100867
+  label: 是年秋冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-401
+    span:
+    - body
+    - 101120
+    - 101120
+  label: 民國二十三年，一九三四（癸酉——甲戌），大師四十六歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-402
+    span:
+    - body
+    - 101140
+    - 101140
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-403
+    span:
+    - body
+    - 101536
+    - 101536
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-404
+    span:
+    - body
+    - 101566
+    - 101566
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-405
+    span:
+    - body
+    - 101969
+    - 101969
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-406
+    span:
+    - body
+    - 102457
+    - 102457
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-407
+    span:
+    - body
+    - 102791
+    - 102791
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-408
+    span:
+    - body
+    - 103142
+    - 103142
+  label: 是年夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-409
+    span:
+    - body
+    - 103172
+    - 103172
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-410
+    span:
+    - body
+    - 103358
+    - 103358
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-411
+    span:
+    - body
+    - 104485
+    - 104485
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-412
+    span:
+    - body
+    - 104673
+    - 104673
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-413
+    span:
+    - body
+    - 104696
+    - 104696
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-414
+    span:
+    - body
+    - 104746
+    - 104746
+  label: 是冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-415
+    span:
+    - body
+    - 104783
+    - 104783
+  label: 民國二十四年，一九三五（甲戌——乙亥），大師四十七歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-416
+    span:
+    - body
+    - 104803
+    - 104803
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-417
+    span:
+    - body
+    - 105018
+    - 105018
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-418
+    span:
+    - body
+    - 105101
+    - 105101
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-419
+    span:
+    - body
+    - 105217
+    - 105217
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-420
+    span:
+    - body
+    - 105308
+    - 105308
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-421
+    span:
+    - body
+    - 106903
+    - 106903
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-422
+    span:
+    - body
+    - 107669
+    - 107669
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-423
+    span:
+    - body
+    - 107680
+    - 107680
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-424
+    span:
+    - body
+    - 109623
+    - 109623
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-425
+    span:
+    - body
+    - 109765
+    - 109765
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-426
+    span:
+    - body
+    - 109792
+    - 109792
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-427
+    span:
+    - body
+    - 109904
+    - 109904
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-428
+    span:
+    - body
+    - 111099
+    - 111099
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-429
+    span:
+    - body
+    - 111339
+    - 111339
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-430
+    span:
+    - body
+    - 111481
+    - 111481
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-431
+    span:
+    - body
+    - 112339
+    - 112339
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-432
+    span:
+    - body
+    - 112347
+    - 112347
+  label: 民國二十五年，一九三六（乙亥——丙子），大師四十八歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-433
+    span:
+    - body
+    - 112367
+    - 112367
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-434
+    span:
+    - body
+    - 112582
+    - 112582
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-435
+    span:
+    - body
+    - 112634
+    - 112634
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-436
+    span:
+    - body
+    - 112736
+    - 112736
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-437
+    span:
+    - body
+    - 112798
+    - 112798
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-438
+    span:
+    - body
+    - 112830
+    - 112830
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-439
+    span:
+    - body
+    - 113301
+    - 113301
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-440
+    span:
+    - body
+    - 114427
+    - 114427
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-441
+    span:
+    - body
+    - 114607
+    - 114607
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-442
+    span:
+    - body
+    - 114948
+    - 114948
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-443
+    span:
+    - body
+    - 115473
+    - 115473
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-444
+    span:
+    - body
+    - 115580
+    - 115580
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-445
+    span:
+    - body
+    - 115709
+    - 115709
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-446
+    span:
+    - body
+    - 115774
+    - 115774
+  label: 民國二十六年，一九三七（丙子——丁丑），大師四十九歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-447
+    span:
+    - body
+    - 115794
+    - 115794
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-448
+    span:
+    - body
+    - 115862
+    - 115862
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-449
+    span:
+    - body
+    - 115976
+    - 115976
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-450
+    span:
+    - body
+    - 116453
+    - 116453
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-451
+    span:
+    - body
+    - 116554
+    - 116554
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-452
+    span:
+    - body
+    - 116634
+    - 116634
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-453
+    span:
+    - body
+    - 116911
+    - 116911
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-454
+    span:
+    - body
+    - 117116
+    - 117116
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-455
+    span:
+    - body
+    - 117668
+    - 117668
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-456
+    span:
+    - body
+    - 117896
+    - 117896
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-457
+    span:
+    - body
+    - 117955
+    - 117955
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-458
+    span:
+    - body
+    - 118048
+    - 118048
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-459
+    span:
+    - body
+    - 118074
+    - 118074
+  label: 是冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-460
+    span:
+    - body
+    - 118797
+    - 118797
+  label: 民國二十七年，一九三八（丁丑——戊寅），大師五十歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-461
+    span:
+    - body
+    - 118816
+    - 118816
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-462
+    span:
+    - body
+    - 118988
+    - 118988
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-463
+    span:
+    - body
+    - 119052
+    - 119052
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-464
+    span:
+    - body
+    - 119430
+    - 119430
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-465
+    span:
+    - body
+    - 119471
+    - 119471
+  label: 是年春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-466
+    span:
+    - body
+    - 119605
+    - 119605
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-467
+    span:
+    - body
+    - 119708
+    - 119708
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-468
+    span:
+    - body
+    - 120507
+    - 120507
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-469
+    span:
+    - body
+    - 120595
+    - 120595
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-470
+    span:
+    - body
+    - 120640
+    - 120640
+  label: 初秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-471
+    span:
+    - body
+    - 120663
+    - 120663
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-472
+    span:
+    - body
+    - 120772
+    - 120772
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-473
+    span:
+    - body
+    - 121040
+    - 121040
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-474
+    span:
+    - body
+    - 121116
+    - 121116
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-475
+    span:
+    - body
+    - 121235
+    - 121235
+  label: 民國二十八年，一九三九（戊寅——己卯），大師五十一歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-476
+    span:
+    - body
+    - 121255
+    - 121255
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-477
+    span:
+    - body
+    - 121494
+    - 121494
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-478
+    span:
+    - body
+    - 121908
+    - 121908
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-479
+    span:
+    - body
+    - 122281
+    - 122281
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-480
+    span:
+    - body
+    - 123282
+    - 123282
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-481
+    span:
+    - body
+    - 123779
+    - 123779
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-482
+    span:
+    - body
+    - 123874
+    - 123874
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-483
+    span:
+    - body
+    - 124016
+    - 124016
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-484
+    span:
+    - body
+    - 124274
+    - 124274
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-485
+    span:
+    - body
+    - 124565
+    - 124565
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-486
+    span:
+    - body
+    - 124585
+    - 124585
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-487
+    span:
+    - body
+    - 124974
+    - 124974
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-488
+    span:
+    - body
+    - 125506
+    - 125506
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-489
+    span:
+    - body
+    - 126918
+    - 126918
+  label: 民國二十九年，一九四〇（己卯——庚辰），大師五十二歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-490
+    span:
+    - body
+    - 126937
+    - 126937
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-491
+    span:
+    - body
+    - 128981
+    - 128981
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-492
+    span:
+    - body
+    - 130050
+    - 130050
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-493
+    span:
+    - body
+    - 131248
+    - 131248
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-494
+    span:
+    - body
+    - 131575
+    - 131575
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-495
+    span:
+    - body
+    - 131981
+    - 131981
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-496
+    span:
+    - body
+    - 132496
+    - 132496
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-497
+    span:
+    - body
+    - 132528
+    - 132528
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-498
+    span:
+    - body
+    - 134292
+    - 134292
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-499
+    span:
+    - body
+    - 134474
+    - 134474
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-500
+    span:
+    - body
+    - 134598
+    - 134598
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-501
+    span:
+    - body
+    - 134689
+    - 134689
+  label: 是秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-502
+    span:
+    - body
+    - 134762
+    - 134762
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-503
+    span:
+    - body
+    - 134831
+    - 134831
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-504
+    span:
+    - body
+    - 134872
+    - 134872
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-505
+    span:
+    - body
+    - 134899
+    - 134899
+  label: 民國三十年，一九四一（庚辰——辛巳），大師五十三歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-506
+    span:
+    - body
+    - 134918
+    - 134918
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-507
+    span:
+    - body
+    - 135795
+    - 135795
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-508
+    span:
+    - body
+    - 135880
+    - 135880
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-509
+    span:
+    - body
+    - 136005
+    - 136005
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-510
+    span:
+    - body
+    - 136037
+    - 136037
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-511
+    span:
+    - body
+    - 136060
+    - 136060
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-512
+    span:
+    - body
+    - 136085
+    - 136085
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-513
+    span:
+    - body
+    - 136259
+    - 136259
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-514
+    span:
+    - body
+    - 136283
+    - 136283
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-515
+    span:
+    - body
+    - 136341
+    - 136341
+  label: 八月底
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-516
+    span:
+    - body
+    - 136387
+    - 136387
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-517
+    span:
+    - body
+    - 136415
+    - 136415
+  label: 是秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-518
+    span:
+    - body
+    - 136440
+    - 136440
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-519
+    span:
+    - body
+    - 136491
+    - 136491
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-520
+    span:
+    - body
+    - 136503
+    - 136503
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-521
+    span:
+    - body
+    - 136571
+    - 136571
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-522
+    span:
+    - body
+    - 136598
+    - 136598
+  label: 民國三十一年，一九四二（辛巳——壬午），大師五十四歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-523
+    span:
+    - body
+    - 136618
+    - 136618
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-524
+    span:
+    - body
+    - 136696
+    - 136696
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-525
+    span:
+    - body
+    - 136923
+    - 136923
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-526
+    span:
+    - body
+    - 137007
+    - 137007
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-527
+    span:
+    - body
+    - 137184
+    - 137184
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-528
+    span:
+    - body
+    - 137699
+    - 137699
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-529
+    span:
+    - body
+    - 137764
+    - 137764
+  label: 是夏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-530
+    span:
+    - body
+    - 137939
+    - 137939
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-531
+    span:
+    - body
+    - 137986
+    - 137986
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-532
+    span:
+    - body
+    - 138006
+    - 138006
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-533
+    span:
+    - body
+    - 138501
+    - 138501
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-534
+    span:
+    - body
+    - 138600
+    - 138600
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-535
+    span:
+    - body
+    - 138729
+    - 138729
+  label: 民國三十二年，一九四三（壬午——癸未），大師五十五歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-536
+    span:
+    - body
+    - 138749
+    - 138749
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-537
+    span:
+    - body
+    - 138857
+    - 138857
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-538
+    span:
+    - body
+    - 138981
+    - 138981
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-539
+    span:
+    - body
+    - 139095
+    - 139095
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-540
+    span:
+    - body
+    - 139304
+    - 139304
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-541
+    span:
+    - body
+    - 139625
+    - 139625
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-542
+    span:
+    - body
+    - 139816
+    - 139816
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-543
+    span:
+    - body
+    - 139841
+    - 139841
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-544
+    span:
+    - body
+    - 139857
+    - 139857
+  label: 夏季
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-545
+    span:
+    - body
+    - 139891
+    - 139891
+  label: 是年夏秋間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-546
+    span:
+    - body
+    - 140052
+    - 140052
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-547
+    span:
+    - body
+    - 140142
+    - 140142
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-548
+    span:
+    - body
+    - 140319
+    - 140319
+  label: 是年下學期
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-549
+    span:
+    - body
+    - 140498
+    - 140498
+  label: 是年秋冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-550
+    span:
+    - body
+    - 140552
+    - 140552
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-551
+    span:
+    - body
+    - 141348
+    - 141348
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-552
+    span:
+    - body
+    - 141939
+    - 141939
+  label: 是年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-553
+    span:
+    - body
+    - 142049
+    - 142049
+  label: 民國三十三年，一九四四（癸未——甲申），大師五十六歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-554
+    span:
+    - body
+    - 142069
+    - 142069
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-555
+    span:
+    - body
+    - 142422
+    - 142422
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-556
+    span:
+    - body
+    - 142444
+    - 142444
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-557
+    span:
+    - body
+    - 142596
+    - 142596
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-558
+    span:
+    - body
+    - 142637
+    - 142637
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-559
+    span:
+    - body
+    - 142726
+    - 142726
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-560
+    span:
+    - body
+    - 142928
+    - 142928
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-561
+    span:
+    - body
+    - 142978
+    - 142978
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-562
+    span:
+    - body
+    - 143132
+    - 143132
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-563
+    span:
+    - body
+    - 143172
+    - 143172
+  label: 是秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-564
+    span:
+    - body
+    - 143248
+    - 143248
+  label: 初冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-565
+    span:
+    - body
+    - 143354
+    - 143354
+  label: 民國三十四年，一九四五（甲申——乙酉），大師五十七歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-566
+    span:
+    - body
+    - 143374
+    - 143374
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-567
+    span:
+    - body
+    - 143427
+    - 143427
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-568
+    span:
+    - body
+    - 143468
+    - 143468
+  label: 是春
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-569
+    span:
+    - body
+    - 143498
+    - 143498
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-570
+    span:
+    - body
+    - 143597
+    - 143597
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-571
+    span:
+    - body
+    - 143635
+    - 143635
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-572
+    span:
+    - body
+    - 143733
+    - 143733
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-573
+    span:
+    - body
+    - 143946
+    - 143946
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-574
+    span:
+    - body
+    - 144057
+    - 144057
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-575
+    span:
+    - body
+    - 144189
+    - 144189
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-576
+    span:
+    - body
+    - 144409
+    - 144409
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-577
+    span:
+    - body
+    - 144468
+    - 144468
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-578
+    span:
+    - body
+    - 144487
+    - 144487
+  label: 比年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-579
+    span:
+    - body
+    - 144569
+    - 144569
+  label: 民國三十五年，一九四六（乙酉——丙戌），大師五十八歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-580
+    span:
+    - body
+    - 144589
+    - 144589
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-581
+    span:
+    - body
+    - 145404
+    - 145404
+  label: 比年來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-582
+    span:
+    - body
+    - 145560
+    - 145560
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-583
+    span:
+    - body
+    - 145593
+    - 145593
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-584
+    span:
+    - body
+    - 145674
+    - 145674
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-585
+    span:
+    - body
+    - 145825
+    - 145825
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-586
+    span:
+    - body
+    - 146122
+    - 146122
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-587
+    span:
+    - body
+    - 146352
+    - 146352
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-588
+    span:
+    - body
+    - 146471
+    - 146471
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-589
+    span:
+    - body
+    - 147230
+    - 147230
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-590
+    span:
+    - body
+    - 147368
+    - 147368
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-591
+    span:
+    - body
+    - 147498
+    - 147498
+  label: 是月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-592
+    span:
+    - body
+    - 147519
+    - 147519
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-593
+    span:
+    - body
+    - 147609
+    - 147609
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-594
+    span:
+    - body
+    - 147656
+    - 147656
+  label: 是年冬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-595
+    span:
+    - body
+    - 147891
+    - 147891
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-596
+    span:
+    - body
+    - 148040
+    - 148040
+  label: 民國三十六年，一九四七（丙戌——丁酉），大師五十九歲。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-597
+    span:
+    - body
+    - 148060
+    - 148060
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-598
+    span:
+    - body
+    - 148260
+    - 148260
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-599
+    span:
+    - body
+    - 149337
+    - 149337
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-600
+    span:
+    - body
+    - 149906
+    - 149906
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-601
+    span:
+    - body
+    - 150071
+    - 150071
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-602
+    span:
+    - body
+    - 150893
+    - 150893
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-603
+    span:
+    - body
+    - 150987
+    - 150987
+  label: 民國三十七年，一九四八（丁酉——戊戌）。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-604
+    span:
+    - body
+    - 151001
+    - 151001
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-605
+    span:
+    - body
+    - 151011
+    - 151011
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-606
+    span:
+    - body
+    - 151036
+    - 151036
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-607
+    span:
+    - body
+    - 151071
+    - 151071
+  label: 民國三十八年，一九四九（戊戌——己亥）。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-608
+    span:
+    - body
+    - 151085
+    - 151085
+  label: 一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-609
+    span:
+    - body
+    - 151192
+    - 151192
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-610
+    span:
+    - body
+    - 151205
+    - 151205
+  label: 民國三十九年，一九五〇（己亥——庚子）。
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-611
+    span:
+    - body
+    - 151218
+    - 151218
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0590_Y_001-mulu-612
+    span:
+    - body
+    - 151293
+    - 151293
+  label: 四月
+  type: mulu
+  level: 1
+hash: sha256:3ada8f9ab79ec49f8eca23a3726313bb6c14997d73d6e39639f6006756fdc979
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
