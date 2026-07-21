@@ -18,17 +18,17 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0590_000.yaml, hash: 'sha256:bc65762a25eb713b0f308755930d2de8759671ec15e32518731a17c959568afb'}
+  - {seq: 0, filename: KR6v0590_000.yaml, hash: 'sha256:48a29233ece8089e7cdd7d825f1197cf4d3fe25d5e19bfd0e549e75f99b44598'}
   - {seq: 1, filename: KR6v0590_001.yaml, hash: 'sha256:cb6b71eabc56e8425382971091949109adefbdf07e469eb2797f999e142b45d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0590_000.markers.yaml, hash: 'sha256:ab92ab0faa21f992dc479a647015d35b3f6ad7cc9ef7a5c69c4dd0e7a3645dd0'}
+  - {seq: 0, role: markers, filename: assets/KR6v0590_000.markers.yaml, hash: 'sha256:a2cf767f2e341127832df2172eed1d25abe2f64fc5d0d686a44e32ff2394be7d'}
   - {seq: 1, role: markers, filename: assets/KR6v0590_001.markers.yaml, hash: 'sha256:3c6b3d469bd1d8a6da1216edc8fcfccc32ec59714d15a5deedc0b8cdea8a0bc1'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0590_Y_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0590_Y_000-mulu-2
     span:
-    - front
+    - body
     - 406
     - 406
   label: 編者附言
@@ -6174,7 +6174,7 @@ table_of_contents:
   label: 四月
   type: mulu
   level: 1
-hash: sha256:b78d89d4f14052f3d62a6d4d761c8ce89959f5be8ce16fc3a2378806050ac21e
+hash: sha256:54209889052ab8ecbeb309569ea9f6f2421663a4d73e73b46160c3dc9eb14446
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
